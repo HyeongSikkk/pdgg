@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+authors.py
+dbConnect.py
+slack_message.py
+test.ipynb
+get_asset_use_pool.ipynb
+get_data.ipynb
+asset_trans/__pycache__/
+error_data/
+user.csv
